@@ -14,7 +14,7 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
+    "mess-allocation": "file:..",
     "mongoose": "^8.3.1"
   }
 }
-
